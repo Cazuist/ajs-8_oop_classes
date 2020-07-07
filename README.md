@@ -1,7 +1,8 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/3plqge8omqg2w4fn?svg=true)](https://ci.appveyor.com/project/Cazuist/ajs-8-test-ci-func)
+[![Build status](https://ci.appveyor.com/api/projects/status/uis5ak30hrdt5mho?svg=true)](https://ci.appveyor.com/project/Cazuist/ajs-8-oop-classes)
 
-## Чистые функции
+## ООП. Классы и наследования.
 
-- Реализована функция **getHealthStatus**, возвращающая статус здоровья персонажа;
-- Реализована проверка **Lint**;
-- Реализовано тестирование функции **getHealthStatus**;
+- Реализован родительский класс **Character**
+- Реализованы дочерние классы;
+- Реализована проверка  **Lint**;
+- Реализовано тестирование классов ;
